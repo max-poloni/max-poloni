@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Max
-- 👀
-- 🌱 
-- 💞️ 
-- 📫 
-- 😄 
-- ⚡ 
+- 👋 Hi, I’m @Max 
 
 <!---
 max-poloni/max-poloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
